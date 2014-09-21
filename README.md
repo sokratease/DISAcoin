@@ -27,7 +27,7 @@ The App will have the following basic features:
 
 4. Passersby are shown the cost and conditions of connecting before they connect to this shared hotspot and they have to agree to both before connecting.
 
-5. Passersby can pay using [bitcoin micropayments](https://bitcoinj.github.io/working-with-micropayments)
+5. Passersby can only pay using a decentralised digital currency called DISACoin which is an altcoin that is built on top of the Bitcoin Blockchain.
 
 6. The app can tell you who is sharing an internet connnection near you.
 
@@ -41,3 +41,4 @@ The App will have the following basic features:
 
 
 The app will be completely opensource.
+It will be built on [Mastercoin](http://www.mastercoin.org/) or [Counterwallet](http://www.counterparty.co)
