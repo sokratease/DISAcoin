@@ -31,6 +31,14 @@ The App will have the following basic features:
 
 6. The app can tell you who is sharing an internet connnection near you.
 
+##Who will find this app useful
+
+1. Individuals who wish to share an internet connection. The individuals who may wish to do this are probably those who have free or unlimited access to internet (at home, at work or with their MNO). These individuals will also have more capacity than they can use.
+
+2. Businesses. These will probably be businesses who have an unlimited internet subscripition but don't use that capacity on certain times of the day (or night) or on certain days (such as weekends). These businesses can even install the app on as a feature on firmwire projects such as [Tomato](http://www.polarcloud.com/tomato).
+
+3. People who need an internet connection. This can be people who have travelled to a different place and cannot easily or quickly  get an internet connection there or people who have exhauseted their internet subscription and need a quick and cheap way to access the internet.
+
 
 The app will be completely opensource.
 It will be built on [Mastercoin](http://www.mastercoin.org/) or [Counterwallet](http://www.counterparty.co)
