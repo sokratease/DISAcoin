@@ -5,7 +5,7 @@ A decentralised Internet sharing app
 
 ##Background
 The internet is now a basic human right and the number of people who can live without it grows smaller everyday. 
-The way ISPs sell internet packages today, is very wasteful and thus expensive for consumers. Lot's of consumers are paying for bandwidth they are not consuming in it's entirety. This bandwidth could be used by paswersby but noone wants to share their bandwidth with others because:
+The way ISPs sell internet packages today, is very wasteful and thus expensive for consumers. Lot's of consumers are paying for bandwidth they are not consuming in it's entirety. This bandwidth could be used by passersby but noone wants to share their bandwidth with others because:
 
 1. Noone wants to give away their unused bandwidth to passersby for free because of the [free rider problem](http://en.wikipedia.org/wiki/Free_rider_problem).
 
